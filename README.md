@@ -70,6 +70,6 @@ This project is an educational prototype and is not a certified vehicle safety s
 
 Created as an AI and Computer Vision project.
 
---
+
 
 ⭐ If you find this project useful, consider giving the repository a star!
